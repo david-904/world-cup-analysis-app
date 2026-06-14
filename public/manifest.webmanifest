@@ -1,0 +1,9 @@
+{
+  "name": "World Cup 2026 Analysis",
+  "short_name": "WC Model",
+  "description": "Winner model, historical calibration and odds EV board.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#efe3cc",
+  "theme_color": "#efe3cc"
+}
